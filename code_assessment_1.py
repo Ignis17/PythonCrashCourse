@@ -1,3 +1,5 @@
+# CS310 Assessment #1
+
 def Message():
     symb = "*"
     num = int(input("Enter a number:"))
