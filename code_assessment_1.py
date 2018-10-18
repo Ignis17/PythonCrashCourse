@@ -1,4 +1,5 @@
-# CS310 Assessment #1
+# CS310 Assessment 1
+# Joel Turbi
 
 def Message():
     symb = "*"
