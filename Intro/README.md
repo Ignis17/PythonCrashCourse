@@ -1,4 +1,4 @@
-Introduction:
+Introduction
 =
 **Python Scripts:**
 - *guessingnum.py*
