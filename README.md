@@ -3,5 +3,5 @@ Python Crash Course By Eric Matthes
 ![alt text](Images/cover.png)
 = 
 ### Included:
-- Introduction
+- Chapter 1
 - Personal Python Scripts
