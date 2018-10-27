@@ -1,4 +1,4 @@
-Introduction
+Chapter 1
 =
 **Python Scripts:**
 - *guessingnum.py*
