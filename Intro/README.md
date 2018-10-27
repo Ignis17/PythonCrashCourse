@@ -8,7 +8,6 @@ tor to make it easier to write Python code. You learned to run snippets of
 Python code in a terminal session, and you ran your first actual program,
 hello_world.py. You probably learned a bit about troubleshooting as well._*
 
-=
 **Python Scripts:**
 - *guessingnum.py*
 >Simple number guessing python script game
