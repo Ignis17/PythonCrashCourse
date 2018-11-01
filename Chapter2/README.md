@@ -7,6 +7,6 @@ Chapter 2
 
 **Python Scripts:**
 - *hello_world.py*
->Prints to the screen the strings "Hello python world" & "Hello Python Crash Course World!" 
+>Prints to the screen the strings *_"Hello python world" and "Hello Python Crash Course World!"_*
 - *name.py*
 >Illustrates the use of title,upper, and lower methods. 
