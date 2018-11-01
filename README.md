@@ -4,4 +4,5 @@ Python Crash Course By Eric Matthes
 = 
 ### Included:
 - Chapter 1
+- Chapter 2
 - Personal Python Scripts
