@@ -8,7 +8,7 @@ d = "1 is an odd number"
 print a.capitalize() # Output: "Hello world!"
 
 # count() - returns the count of all the occurrances of the substring parameter.
-print b.count("Hi") # Output: 3 
+print b.count("Hi") # Output: 3
 
 # find() - returns the index of the first occurrance of the substring parameter.
 # If the substring is not present it returns -1.
@@ -31,4 +31,4 @@ print "slips".strip('s') # Output: lip
 print " Heat ".strip() # Output: "Heat"
 
 # split() - returns a list of substrings of the string divided by the delimiter parameter.
-print c.split(" ") # Output: ['Whatever','you','want'] 
+print c.split(" ") # Output: ['Whatever','you','want']
