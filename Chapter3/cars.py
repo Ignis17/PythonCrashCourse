@@ -1,5 +1,6 @@
 # Sorting a List Permanently with the sort() Method
 cars = ["bmw", "audi", "toyota", "subaru"]
+original = cars
 cars.sort()
 print(cars)
 #The sort() method,as shown above, changes the order of the list permanently.
@@ -16,11 +17,12 @@ print(cars)
 # Modified Version 1.2
 # Sorting a List Temporarily with the sorted() Function
 print("Here is the original list:")
-print(cars)
+print(original)
 print("\nHere is the sorted list:")
 print(sorted(cars))
 print("\nHere is the original list again:")
 print(cars)
+print()
 
 '''
 Note: Sorting a list alphabetically is a bit more complicated when all the values are not in
