@@ -4,5 +4,5 @@ msg = "Howdy, there!"
 print(msg)
 
 # Modified Version
-msg = "Nice going, there!"
+msg = "Nicely done, attaboy!"
 print(msg)

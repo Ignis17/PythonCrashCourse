@@ -8,4 +8,4 @@ def SmallestNumber(x,y,z):
     return least
 
 result = SmallestNumber(3,65,1)
-print "The smallest number is: ",result
+print ("The smallest number is: ",result)
